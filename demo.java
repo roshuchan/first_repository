@@ -2,6 +2,7 @@ class demo
 {
   public static void main(String[] a)
   {
-	println("Roshini");
+	for(int i=0;i<5;i++)
+		println("Roshini");
   }
 }
